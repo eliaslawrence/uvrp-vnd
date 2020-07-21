@@ -1,0 +1,43 @@
+INSTANCE: eil51.tsp
+
+POINTS: 51
+
+RECHARGE: 37
+
+PROHIBITED: 0
+
+------------------------------------------
+
+METHODS: swap 04
+
+STOP CHRITERION: time (420 s)
+
+POOL MAX SIZE: 30
+
+------------------------------------------
+
+LAST ITERATION: 5
+
+# OF SOLUTIONS: 30
+
+COMPLETED: true
+
+TOTAL TIME: 430.809
+
+------------------------------------------
+
+>> Vizinhanca 0: 888 added - 4700 (0.0450943 s)
+>> Vizinhanca 1: 0 added - 3812 (4.56007e-07 s)
+>> Vizinhanca 2: 681 added - 4493 (0.01258 s)
+>> Vizinhanca 3: 4 added - 3816 (0.0239925 s)
+>> Vizinhanca 4: 217 added - 4029 (0.0143159 s)
+>> Vizinhanca 5: 151 added - 3963 (0.00033186 s)
+>> Vizinhanca 6: 657 added - 4469 (0.000330974 s)
+>> Vizinhanca 7: 1 added - 3813 (0.000153864 s)
+>> Vizinhanca 8: 59 added - 3871 (0.00214198 s)
+
+------------------------------------------
+
+>> Average Final Charge: 57.3 >> Standard Deviation Final Charge: 20.8828 >> Best Final Charge: 64
+>> Average Time: 1475.5 >> Standard Deviation Time: 970.5 >> Best Time: 1249
+>> Average Consumption: 658.367 >> Standard Deviation Consumption: 265.432 >> Best Consumption: 558
